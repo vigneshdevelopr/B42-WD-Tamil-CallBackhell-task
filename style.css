@@ -1,0 +1,17 @@
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    /* font-family: 'Avenir', sans-serif;  */
+    color: #33475b;   
+background-color: aliceblue;
+ }
+div{
+    
+    text-align: center;
+    font-size: 9ch;
+    font-family: 'Satisfy', cursive;
+    color: black;
+
+    
+}
